@@ -1,0 +1,807 @@
+[
+    {
+        "Exchange Name":"US OTC",
+        "Country":"United States",
+        "Code":"OTC",
+        "Currency":"USD",
+        "Number of Stocks":7582
+    },
+    {
+        "Exchange Name":"Bombay Stock Exchange",
+        "Country":"India",
+        "Code":"BOM",
+        "Currency":"INR",
+        "Number of Stocks":4253
+    },
+    {
+        "Exchange Name":"Tokyo Stock Exchange",
+        "Country":"Japan",
+        "Code":"TYO",
+        "Currency":"JPY",
+        "Number of Stocks":3894
+    },
+    {
+        "Exchange Name":"Nasdaq Stock Market",
+        "Country":"United States",
+        "Code":"NASDAQ",
+        "Currency":"USD",
+        "Number of Stocks":3316
+    },
+    {
+        "Exchange Name":"London Stock Exchange",
+        "Country":"United Kingdom",
+        "Code":"LON",
+        "Currency":"GBP",
+        "Number of Stocks":3298
+    },
+    {
+        "Exchange Name":"Shenzhen Stock Exchange",
+        "Country":"China",
+        "Code":"SHE",
+        "Currency":"CNY",
+        "Number of Stocks":2819
+    },
+    {
+        "Exchange Name":"Hong Kong Stock Exchange",
+        "Country":"Hong Kong",
+        "Code":"HKG",
+        "Currency":"HKD",
+        "Number of Stocks":2555
+    },
+    {
+        "Exchange Name":"National Stock Exchange of India",
+        "Country":"India",
+        "Code":"NSE",
+        "Currency":"INR",
+        "Number of Stocks":2547
+    },
+    {
+        "Exchange Name":"Shanghai Stock Exchange",
+        "Country":"China",
+        "Code":"SHA",
+        "Currency":"CNY",
+        "Number of Stocks":2267
+    },
+    {
+        "Exchange Name":"New York Stock Exchange",
+        "Country":"United States",
+        "Code":"NYSE",
+        "Currency":"USD",
+        "Number of Stocks":1943
+    },
+    {
+        "Exchange Name":"Australian Securities Exchange",
+        "Country":"Australia",
+        "Code":"ASX",
+        "Currency":"AUD",
+        "Number of Stocks":1791
+    },
+    {
+        "Exchange Name":"KOSDAQ",
+        "Country":"South Korea",
+        "Code":"KOSDAQ",
+        "Currency":"KRW",
+        "Number of Stocks":1624
+    },
+    {
+        "Exchange Name":"TSX Venture Exchange",
+        "Country":"Canada",
+        "Code":"TSXV",
+        "Currency":"CAD",
+        "Number of Stocks":1395
+    },
+    {
+        "Exchange Name":"Taipei Exchange",
+        "Country":"Taiwan",
+        "Code":"TPEX",
+        "Currency":"TWD",
+        "Number of Stocks":1118
+    },
+    {
+        "Exchange Name":"Taiwan Stock Exchange",
+        "Country":"Taiwan",
+        "Code":"TPE",
+        "Currency":"TWD",
+        "Number of Stocks":1031
+    },
+    {
+        "Exchange Name":"Bursa Malaysia",
+        "Country":"Malaysia",
+        "Code":"KLSE",
+        "Currency":"MYR",
+        "Number of Stocks":1014
+    },
+    {
+        "Exchange Name":"Indonesia Stock Exchange",
+        "Country":"Indonesia",
+        "Code":"IDX",
+        "Currency":"IDR",
+        "Number of Stocks":888
+    },
+    {
+        "Exchange Name":"Stock Exchange of Thailand",
+        "Country":"Thailand",
+        "Code":"BKK",
+        "Currency":"THB",
+        "Number of Stocks":881
+    },
+    {
+        "Exchange Name":"Korea Stock Exchange",
+        "Country":"South Korea",
+        "Code":"KRX",
+        "Currency":"KRW",
+        "Number of Stocks":814
+    },
+    {
+        "Exchange Name":"Nasdaq Stockholm",
+        "Country":"Sweden",
+        "Code":"STO",
+        "Currency":"SEK",
+        "Number of Stocks":778
+    },
+    {
+        "Exchange Name":"Euronext Paris",
+        "Country":"France",
+        "Code":"EPA",
+        "Currency":"EUR",
+        "Number of Stocks":756
+    },
+    {
+        "Exchange Name":"Warsaw Stock Exchange",
+        "Country":"Poland",
+        "Code":"WSE",
+        "Currency":"PLN",
+        "Number of Stocks":718
+    },
+    {
+        "Exchange Name":"Toronto Stock Exchange",
+        "Country":"Canada",
+        "Code":"TSX",
+        "Currency":"CAD",
+        "Number of Stocks":715
+    },
+    {
+        "Exchange Name":"Deutsche B\u00f6rse Xetra",
+        "Country":"Germany",
+        "Code":"ETR",
+        "Currency":"EUR",
+        "Number of Stocks":688
+    },
+    {
+        "Exchange Name":"London Stock Exchange AIM",
+        "Country":"United Kingdom",
+        "Code":"AIM",
+        "Currency":"GBP",
+        "Number of Stocks":644
+    },
+    {
+        "Exchange Name":"Canadian Securities Exchange",
+        "Country":"Canada",
+        "Code":"CSE",
+        "Currency":"CAD",
+        "Number of Stocks":582
+    },
+    {
+        "Exchange Name":"Istanbul Stock Exchange",
+        "Country":"Turkey",
+        "Code":"IST",
+        "Currency":"TRY",
+        "Number of Stocks":548
+    },
+    {
+        "Exchange Name":"Tel Aviv Stock Exchange",
+        "Country":"Israel",
+        "Code":"TLV",
+        "Currency":"ILS",
+        "Number of Stocks":486
+    },
+    {
+        "Exchange Name":"Pakistan Stock Exchange",
+        "Country":"Pakistan",
+        "Code":"PSX",
+        "Currency":"PKR",
+        "Number of Stocks":463
+    },
+    {
+        "Exchange Name":"Ho Chi Minh Stock Exchange",
+        "Country":"Vietnam",
+        "Code":"HOSE",
+        "Currency":"VND",
+        "Number of Stocks":383
+    },
+    {
+        "Exchange Name":"Singapore Exchange",
+        "Country":"Singapore",
+        "Code":"SGX",
+        "Currency":"SGD",
+        "Number of Stocks":354
+    },
+    {
+        "Exchange Name":"Dhaka Stock Exchange",
+        "Country":"Bangladesh",
+        "Code":"DSE",
+        "Currency":"BDT",
+        "Number of Stocks":353
+    },
+    {
+        "Exchange Name":"Borsa Italiana",
+        "Country":"Italy",
+        "Code":"BIT",
+        "Currency":"EUR",
+        "Number of Stocks":337
+    },
+    {
+        "Exchange Name":"Brazil Stock Exchange",
+        "Country":"Brazil",
+        "Code":"BVMF",
+        "Currency":"BRL",
+        "Number of Stocks":319
+    },
+    {
+        "Exchange Name":"Saudi Stock Exchange",
+        "Country":"Saudi Arabia",
+        "Code":"TADAWUL",
+        "Currency":"SAR",
+        "Number of Stocks":317
+    },
+    {
+        "Exchange Name":"Oslo B\u00f8rs",
+        "Country":"Norway",
+        "Code":"OSL",
+        "Currency":"NOK",
+        "Number of Stocks":309
+    },
+    {
+        "Exchange Name":"Colombo Stock Exchange",
+        "Country":"Sri Lanka",
+        "Code":"COSE",
+        "Currency":"LKR",
+        "Number of Stocks":291
+    },
+    {
+        "Exchange Name":"Philippine Stock Exchange",
+        "Country":"Philippines",
+        "Code":"PSE",
+        "Currency":"PHP",
+        "Number of Stocks":275
+    },
+    {
+        "Exchange Name":"Johannesburg Stock Exchange",
+        "Country":"South Africa",
+        "Code":"JSE",
+        "Currency":"ZAR",
+        "Number of Stocks":272
+    },
+    {
+        "Exchange Name":"Hanoi Stock Exchange",
+        "Country":"Vietnam",
+        "Code":"HNX",
+        "Currency":"VND",
+        "Number of Stocks":250
+    },
+    {
+        "Exchange Name":"NYSE American",
+        "Country":"United States",
+        "Code":"AMEX",
+        "Currency":"USD",
+        "Number of Stocks":233
+    },
+    {
+        "Exchange Name":"Frankfurt Stock Exchange",
+        "Country":"Germany",
+        "Code":"FRA",
+        "Currency":"EUR",
+        "Number of Stocks":233
+    },
+    {
+        "Exchange Name":"SIX Swiss Exchange",
+        "Country":"Switzerland",
+        "Code":"SWX",
+        "Currency":"CHF",
+        "Number of Stocks":218
+    },
+    {
+        "Exchange Name":"Egyptian Stock Exchange",
+        "Country":"Egypt",
+        "Code":"EGX",
+        "Currency":"EGP",
+        "Number of Stocks":214
+    },
+    {
+        "Exchange Name":"Moscow Stock Exchange",
+        "Country":"Russia",
+        "Code":"MOEX",
+        "Currency":"RUB",
+        "Number of Stocks":189
+    },
+    {
+        "Exchange Name":"Nasdaq Helsinki",
+        "Country":"Finland",
+        "Code":"HEL",
+        "Currency":"EUR",
+        "Number of Stocks":187
+    },
+    {
+        "Exchange Name":"Bucharest Stock Exchange",
+        "Country":"Romania",
+        "Code":"BVB",
+        "Currency":"RON",
+        "Number of Stocks":176
+    },
+    {
+        "Exchange Name":"Copenhagen Stock Exchange",
+        "Country":"Denmark",
+        "Code":"CPH",
+        "Currency":"DKK",
+        "Number of Stocks":163
+    },
+    {
+        "Exchange Name":"Singapore Exchange \u2013 Catalist",
+        "Country":"Singapore",
+        "Code":"SGXC",
+        "Currency":"SGD",
+        "Number of Stocks":161
+    },
+    {
+        "Exchange Name":"Santiago Stock Exchange",
+        "Country":"Chile",
+        "Code":"SNSE",
+        "Currency":"CLP",
+        "Number of Stocks":154
+    },
+    {
+        "Exchange Name":"Madrid Stock Exchange",
+        "Country":"Spain",
+        "Code":"BME",
+        "Currency":"EUR",
+        "Number of Stocks":154
+    },
+    {
+        "Exchange Name":"Nigerian Stock Exchange",
+        "Country":"Nigeria",
+        "Code":"NGX",
+        "Currency":"NGN",
+        "Number of Stocks":146
+    },
+    {
+        "Exchange Name":"Nordic Growth Market",
+        "Country":"Sweden",
+        "Code":"NGM",
+        "Currency":"SEK",
+        "Number of Stocks":144
+    },
+    {
+        "Exchange Name":"Kuwait Stock Exchange",
+        "Country":"Kuwait",
+        "Code":"KWSE",
+        "Currency":"KWD",
+        "Number of Stocks":141
+    },
+    {
+        "Exchange Name":"Athens Stock Exchange",
+        "Country":"Greece",
+        "Code":"ATH",
+        "Currency":"EUR",
+        "Number of Stocks":130
+    },
+    {
+        "Exchange Name":"Vienna Stock Exchange",
+        "Country":"Austria",
+        "Code":"VIE",
+        "Currency":"EUR",
+        "Number of Stocks":127
+    },
+    {
+        "Exchange Name":"New Zealand Stock Exchange",
+        "Country":"New Zealand",
+        "Code":"NZE",
+        "Currency":"NZD",
+        "Number of Stocks":116
+    },
+    {
+        "Exchange Name":"Amman Stock Exchange",
+        "Country":"Jordan",
+        "Code":"ASE",
+        "Currency":"JOD",
+        "Number of Stocks":116
+    },
+    {
+        "Exchange Name":"Euronext Brussels",
+        "Country":"Belgium",
+        "Code":"EBR",
+        "Currency":"EUR",
+        "Number of Stocks":115
+    },
+    {
+        "Exchange Name":"Mexican Stock Exchange",
+        "Country":"Mexico",
+        "Code":"BMV",
+        "Currency":"MXN",
+        "Number of Stocks":110
+    },
+    {
+        "Exchange Name":"Korea New Exchange",
+        "Country":"South Korea",
+        "Code":"XKON",
+        "Currency":"KRW",
+        "Number of Stocks":110
+    },
+    {
+        "Exchange Name":"Lima Stock Exchange",
+        "Country":"Peru",
+        "Code":"BVL",
+        "Currency":"PEN",
+        "Number of Stocks":107
+    },
+    {
+        "Exchange Name":"Euronext Amsterdam",
+        "Country":"Netherlands",
+        "Code":"AMS",
+        "Currency":"EUR",
+        "Number of Stocks":106
+    },
+    {
+        "Exchange Name":"Luxembourg Stock Exchange",
+        "Country":"Luxembourg",
+        "Code":"LUX",
+        "Currency":"EUR",
+        "Number of Stocks":104
+    },
+    {
+        "Exchange Name":"Muscat Securities Market",
+        "Country":"Oman",
+        "Code":"MSM",
+        "Currency":"OMR",
+        "Number of Stocks":102
+    },
+    {
+        "Exchange Name":"Abu Dhabi Securities Exchange",
+        "Country":"UAE",
+        "Code":"ADX",
+        "Currency":"AED",
+        "Number of Stocks":100
+    },
+    {
+        "Exchange Name":"Jamaica Stock Exchange",
+        "Country":"Jamaica",
+        "Code":"JMSE",
+        "Currency":"JMD",
+        "Number of Stocks":96
+    },
+    {
+        "Exchange Name":"Mauritius Stock Exchange",
+        "Country":"Mauritius",
+        "Code":"MUSE",
+        "Currency":"MUR",
+        "Number of Stocks":88
+    },
+    {
+        "Exchange Name":"Cboe Canada",
+        "Country":"Canada",
+        "Code":"NEO",
+        "Currency":"CAD",
+        "Number of Stocks":87
+    },
+    {
+        "Exchange Name":"Aquis Exchange",
+        "Country":"United Kingdom",
+        "Code":"AQU",
+        "Currency":"GBP",
+        "Number of Stocks":80
+    },
+    {
+        "Exchange Name":"Bulgarian Stock Exchange",
+        "Country":"Bulgaria",
+        "Code":"BUL",
+        "Currency":"BGN",
+        "Number of Stocks":76
+    },
+    {
+        "Exchange Name":"Buenos Aires Stock Exchange",
+        "Country":"Argentina",
+        "Code":"BCBA",
+        "Currency":"ARS",
+        "Number of Stocks":74
+    },
+    {
+        "Exchange Name":"Casablanca Stock Exchange",
+        "Country":"Morocco",
+        "Code":"CBSE",
+        "Currency":"MAD",
+        "Number of Stocks":73
+    },
+    {
+        "Exchange Name":"Hamburg Stock Exchange",
+        "Country":"Germany",
+        "Code":"HAM",
+        "Currency":"EUR",
+        "Number of Stocks":68
+    },
+    {
+        "Exchange Name":"Tunis Stock Exchange",
+        "Country":"Tunisia",
+        "Code":"BVMT",
+        "Currency":"TND",
+        "Number of Stocks":65
+    },
+    {
+        "Exchange Name":"Colombia Stock Exchange",
+        "Country":"Colombia",
+        "Code":"BVC",
+        "Currency":"COP",
+        "Number of Stocks":58
+    },
+    {
+        "Exchange Name":"Dubai Financial Market",
+        "Country":"UAE",
+        "Code":"DFM",
+        "Currency":"AED",
+        "Number of Stocks":56
+    },
+    {
+        "Exchange Name":"Nairobi Stock Exchange",
+        "Country":"Kenya",
+        "Code":"NASE",
+        "Currency":"KES",
+        "Number of Stocks":56
+    },
+    {
+        "Exchange Name":"Nagoya Stock Exchange",
+        "Country":"Japan",
+        "Code":"XNGO",
+        "Currency":"JPY",
+        "Number of Stocks":55
+    },
+    {
+        "Exchange Name":"Qatar Stock Exchange",
+        "Country":"Qatar",
+        "Code":"QSE",
+        "Currency":"QAR",
+        "Number of Stocks":53
+    },
+    {
+        "Exchange Name":"Zagreb Stock Exchange",
+        "Country":"Croatia",
+        "Code":"ZSE",
+        "Currency":"HRK",
+        "Number of Stocks":51
+    },
+    {
+        "Exchange Name":"Prague Stock Exchange",
+        "Country":"Czech Republic",
+        "Code":"PRA",
+        "Currency":"CZK",
+        "Number of Stocks":46
+    },
+    {
+        "Exchange Name":"Budapest Stock Exchange",
+        "Country":"Hungary",
+        "Code":"BUD",
+        "Currency":"HUF",
+        "Number of Stocks":45
+    },
+    {
+        "Exchange Name":"Ivory Coast Stock Exchange",
+        "Country":"Ivory Coast",
+        "Code":"BRVM",
+        "Currency":"XOF",
+        "Number of Stocks":44
+    },
+    {
+        "Exchange Name":"Euronext Lisbon",
+        "Country":"Portugal",
+        "Code":"ELI",
+        "Currency":"EUR",
+        "Number of Stocks":39
+    },
+    {
+        "Exchange Name":"Dusseldorf Stock Exchange",
+        "Country":"Germany",
+        "Code":"DUSE",
+        "Currency":"EUR",
+        "Number of Stocks":38
+    },
+    {
+        "Exchange Name":"Munich Stock Exchange",
+        "Country":"Germany",
+        "Code":"MUN",
+        "Currency":"EUR",
+        "Number of Stocks":32
+    },
+    {
+        "Exchange Name":"Nasdaq Iceland",
+        "Country":"Iceland",
+        "Code":"ICE",
+        "Currency":"ISK",
+        "Number of Stocks":32
+    },
+    {
+        "Exchange Name":"Namibian Stock Exchange",
+        "Country":"Namibia",
+        "Code":"NMSE",
+        "Currency":"NAD",
+        "Number of Stocks":31
+    },
+    {
+        "Exchange Name":"Cyprus Stock Exchange",
+        "Country":"Cyprus",
+        "Code":"CYS",
+        "Currency":"EUR",
+        "Number of Stocks":30
+    },
+    {
+        "Exchange Name":"Nasdaq Tallinn",
+        "Country":"Estonia",
+        "Code":"TAL",
+        "Currency":"EUR",
+        "Number of Stocks":29
+    },
+    {
+        "Exchange Name":"Stuttgart Stock Exchange",
+        "Country":"Germany",
+        "Code":"BST",
+        "Currency":"EUR",
+        "Number of Stocks":28
+    },
+    {
+        "Exchange Name":"Tanzania Stock Exchange",
+        "Country":"Tanzania",
+        "Code":"DAR",
+        "Currency":"TZS",
+        "Number of Stocks":28
+    },
+    {
+        "Exchange Name":"Nasdaq Vilnius",
+        "Country":"Lithuania",
+        "Code":"VSE",
+        "Currency":"EUR",
+        "Number of Stocks":26
+    },
+    {
+        "Exchange Name":"Euronext Dublin",
+        "Country":"Ireland",
+        "Code":"ISE",
+        "Currency":"EUR",
+        "Number of Stocks":25
+    },
+    {
+        "Exchange Name":"Fukuoka Stock Exchange",
+        "Country":"Japan",
+        "Code":"FKSE",
+        "Currency":"JPY",
+        "Number of Stocks":25
+    },
+    {
+        "Exchange Name":"Palestine Stock Exchange",
+        "Country":"Palestine",
+        "Code":"PEX",
+        "Currency":"JOD",
+        "Number of Stocks":24
+    },
+    {
+        "Exchange Name":"Malta Stock Exchange",
+        "Country":"Malta",
+        "Code":"MSE",
+        "Currency":"EUR",
+        "Number of Stocks":23
+    },
+    {
+        "Exchange Name":"Bahrain Stock Exchange",
+        "Country":"Bahrain",
+        "Code":"BAX",
+        "Currency":"BHD",
+        "Number of Stocks":23
+    },
+    {
+        "Exchange Name":"Ghana Stock Exchange",
+        "Country":"Ghana",
+        "Code":"GHSE",
+        "Currency":"GHS",
+        "Number of Stocks":20
+    },
+    {
+        "Exchange Name":"Kazakhstan Stock Exchange",
+        "Country":"Kazakhstan",
+        "Code":"KASE",
+        "Currency":"KZT",
+        "Number of Stocks":19
+    },
+    {
+        "Exchange Name":"Lusaka Stock Exchange",
+        "Country":"Zambia",
+        "Code":"LUSE",
+        "Currency":"ZMW",
+        "Number of Stocks":19
+    },
+    {
+        "Exchange Name":"Caracas Stock Exchange",
+        "Country":"Venezuela",
+        "Code":"CCSE",
+        "Currency":"VES",
+        "Number of Stocks":18
+    },
+    {
+        "Exchange Name":"Belgrade Stock Exchange",
+        "Country":"Serbia",
+        "Code":"BELEX",
+        "Currency":"EUR",
+        "Number of Stocks":18
+    },
+    {
+        "Exchange Name":"Botswana Stock Exchange",
+        "Country":"Botswana",
+        "Code":"BSM",
+        "Currency":"BWP",
+        "Number of Stocks":18
+    },
+    {
+        "Exchange Name":"Sapporo Stock Exchange",
+        "Country":"Japan",
+        "Code":"SPSE",
+        "Currency":"JPY",
+        "Number of Stocks":17
+    },
+    {
+        "Exchange Name":"Uganda Securities Exchange",
+        "Country":"Uganda",
+        "Code":"UGSE",
+        "Currency":"UGX",
+        "Number of Stocks":17
+    },
+    {
+        "Exchange Name":"Ljubljana Stock Exchange",
+        "Country":"Slovenia",
+        "Code":"LJSE",
+        "Currency":"EUR",
+        "Number of Stocks":14
+    },
+    {
+        "Exchange Name":"Malawi Stock Exchange",
+        "Country":"Malawi",
+        "Code":"MAL",
+        "Currency":"MWK",
+        "Number of Stocks":13
+    },
+    {
+        "Exchange Name":"Nasdaq Riga",
+        "Country":"Latvia",
+        "Code":"RSE",
+        "Currency":"EUR",
+        "Number of Stocks":10
+    },
+    {
+        "Exchange Name":"Beirut Stock Exchange",
+        "Country":"Lebanon",
+        "Code":"BDB",
+        "Currency":"LBP",
+        "Number of Stocks":8
+    },
+    {
+        "Exchange Name":"CBOE Europe",
+        "Country":"Europe",
+        "Code":"CHIX",
+        "Currency":"EUR",
+        "Number of Stocks":6
+    },
+    {
+        "Exchange Name":"Bratislava Stock Exchange",
+        "Country":"Slovakia",
+        "Code":"BSSE",
+        "Currency":"EUR",
+        "Number of Stocks":6
+    },
+    {
+        "Exchange Name":"Zimbabwe Stock Exchange",
+        "Country":"Zimbabwe",
+        "Code":"ZMSE",
+        "Currency":"ZWL",
+        "Number of Stocks":5
+    },
+    {
+        "Exchange Name":"PFTS Stock Exchange",
+        "Country":"Ukraine",
+        "Code":"UKR",
+        "Currency":"UAH",
+        "Number of Stocks":2
+    }
+]
