@@ -1,0 +1,807 @@
+[
+    {
+        "Exchange Name": "US OTC",
+        "Country": "United States",
+        "Code": "OTC",
+        "Latitude": "38.9072\u00b0 N",
+        "Longitude": "77.0369\u00b0 W"
+    },
+    {
+        "Exchange Name": "Bombay Stock Exchange",
+        "Country": "India",
+        "Code": "BOM",
+        "Latitude": "18.9291\u00b0 N",
+        "Longitude": "72.9959\u00b0 E"
+    },
+    {
+        "Exchange Name": "Tokyo Stock Exchange",
+        "Country": "Japan",
+        "Code": "TYO",
+        "Latitude": "35.6824\u00b0 N",
+        "Longitude": "139.7713\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Stock Market",
+        "Country": "United States",
+        "Code": "NASDAQ",
+        "Latitude": "40.7570\u00b0 N",
+        "Longitude": "73.9819\u00b0 W"
+    },
+    {
+        "Exchange Name": "London Stock Exchange",
+        "Country": "United Kingdom",
+        "Code": "LON",
+        "Latitude": "51.5145\u00b0 N",
+        "Longitude": "0.0922\u00b0 W"
+    },
+    {
+        "Exchange Name": "Shenzhen Stock Exchange",
+        "Country": "China",
+        "Code": "SHE",
+        "Latitude": "22.5333\u00b0 N",
+        "Longitude": "114.0668\u00b0 E"
+    },
+    {
+        "Exchange Name": "Hong Kong Stock Exchange",
+        "Country": "Hong Kong",
+        "Code": "HKG",
+        "Latitude": "22.2862\u00b0 N",
+        "Longitude": "114.1529\u00b0 E"
+    },
+    {
+        "Exchange Name": "National Stock Exchange of India",
+        "Country": "India",
+        "Code": "NSE",
+        "Latitude": "19.0473\u00b0 N",
+        "Longitude": "72.8570\u00b0 E"
+    },
+    {
+        "Exchange Name": "Shanghai Stock Exchange",
+        "Country": "China",
+        "Code": "SHA",
+        "Latitude": "31.2406\u00b0 N",
+        "Longitude": "121.4909\u00b0 E"
+    },
+    {
+        "Exchange Name": "New York Stock Exchange",
+        "Country": "United States",
+        "Code": "NYSE",
+        "Latitude": "40.7069\u00b0 N",
+        "Longitude": "74.0113\u00b0 W"
+    },
+    {
+        "Exchange Name": "Australian Securities Exchange",
+        "Country": "Australia",
+        "Code": "ASX",
+        "Latitude": "33.8650\u00b0 S",
+        "Longitude": "151.2094\u00b0 E"
+    },
+    {
+        "Exchange Name": "KOSDAQ",
+        "Country": "South Korea",
+        "Code": "KOSDAQ",
+        "Latitude": "37.5665\u00b0 N",
+        "Longitude": "126.9780\u00b0 E"
+    },
+    {
+        "Exchange Name": "TSX Venture Exchange",
+        "Country": "Canada",
+        "Code": "TSXV",
+        "Latitude": "51.0447\u00b0 N",
+        "Longitude": "114.0719\u00b0 W"
+    },
+    {
+        "Exchange Name": "Taipei Exchange",
+        "Country": "Taiwan",
+        "Code": "TPEX",
+        "Latitude": "25.0330\u00b0 N",
+        "Longitude": "121.5654\u00b0 E"
+    },
+    {
+        "Exchange Name": "Taiwan Stock Exchange",
+        "Country": "Taiwan",
+        "Code": "TPE",
+        "Latitude": "25.0330\u00b0 N",
+        "Longitude": "121.5654\u00b0 E"
+    },
+    {
+        "Exchange Name": "Bursa Malaysia",
+        "Country": "Malaysia",
+        "Code": "KLSE",
+        "Latitude": "3.1528\u00b0 N",
+        "Longitude": "101.7038\u00b0 E"
+    },
+    {
+        "Exchange Name": "Indonesia Stock Exchange",
+        "Country": "Indonesia",
+        "Code": "IDX",
+        "Latitude": "6.2088\u00b0 S",
+        "Longitude": "106.8287\u00b0 E"
+    },
+    {
+        "Exchange Name": "Stock Exchange of Thailand",
+        "Country": "Thailand",
+        "Code": "BKK",
+        "Latitude": "13.7230\u00b0 N",
+        "Longitude": "100.5130\u00b0 E"
+    },
+    {
+        "Exchange Name": "Korea Stock Exchange",
+        "Country": "South Korea",
+        "Code": "KRX",
+        "Latitude": "37.5665\u00b0 N",
+        "Longitude": "126.9780\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Stockholm",
+        "Country": "Sweden",
+        "Code": "STO",
+        "Latitude": "59.3293\u00b0 N",
+        "Longitude": "18.0686\u00b0 E"
+    },
+    {
+        "Exchange Name": "Euronext Paris",
+        "Country": "France",
+        "Code": "EPA",
+        "Latitude": "48.8667\u00b0 N",
+        "Longitude": "2.3333\u00b0 E"
+    },
+    {
+        "Exchange Name": "Warsaw Stock Exchange",
+        "Country": "Poland",
+        "Code": "WSE",
+        "Latitude": "52.2297\u00b0 N",
+        "Longitude": "21.0122\u00b0 E"
+    },
+    {
+        "Exchange Name": "Toronto Stock Exchange",
+        "Country": "Canada",
+        "Code": "TSX",
+        "Latitude": "43.6486\u00b0 N",
+        "Longitude": "79.3775\u00b0 W"
+    },
+    {
+        "Exchange Name": "Deutsche B\u00f6rse Xetra",
+        "Country": "Germany",
+        "Code": "ETR",
+        "Latitude": "50.1109\u00b0 N",
+        "Longitude": "8.6821\u00b0 E"
+    },
+    {
+        "Exchange Name": "London Stock Exchange AIM",
+        "Country": "United Kingdom",
+        "Code": "AIM",
+        "Latitude": "51.5145\u00b0 N",
+        "Longitude": "0.0922\u00b0 W"
+    },
+    {
+        "Exchange Name": "Canadian Securities Exchange",
+        "Country": "Canada",
+        "Code": "CSE",
+        "Latitude": "43.6486\u00b0 N",
+        "Longitude": "79.3775\u00b0 W"
+    },
+    {
+        "Exchange Name": "Istanbul Stock Exchange",
+        "Country": "Turkey",
+        "Code": "IST",
+        "Latitude": "41.0330\u00b0 N",
+        "Longitude": "28.9847\u00b0 E"
+    },
+    {
+        "Exchange Name": "Tel Aviv Stock Exchange",
+        "Country": "Israel",
+        "Code": "TLV",
+        "Latitude": "32.0684\u00b0 N",
+        "Longitude": "34.7832\u00b0 E"
+    },
+    {
+        "Exchange Name": "Pakistan Stock Exchange",
+        "Country": "Pakistan",
+        "Code": "PSX",
+        "Latitude": "24.8615\u00b0 N",
+        "Longitude": "67.0099\u00b0 E"
+    },
+    {
+        "Exchange Name": "Ho Chi Minh Stock Exchange",
+        "Country": "Vietnam",
+        "Code": "HOSE",
+        "Latitude": "10.7758\u00b0 N",
+        "Longitude": "106.7009\u00b0 E"
+    },
+    {
+        "Exchange Name": "Singapore Exchange",
+        "Country": "Singapore",
+        "Code": "SGX",
+        "Latitude": "1.2800\u00b0 N",
+        "Longitude": "103.8500\u00b0 E"
+    },
+    {
+        "Exchange Name": "Dhaka Stock Exchange",
+        "Country": "Bangladesh",
+        "Code": "DSE",
+        "Latitude": "23.7275\u00b0 N",
+        "Longitude": "90.4106\u00b0 E"
+    },
+    {
+        "Exchange Name": "Borsa Italiana",
+        "Country": "Italy",
+        "Code": "BIT",
+        "Latitude": "45.4668\u00b0 N",
+        "Longitude": "9.1905\u00b0 E"
+    },
+    {
+        "Exchange Name": "Brazil Stock Exchange",
+        "Country": "Brazil",
+        "Code": "BVMF",
+        "Latitude": "23.5505\u00b0 S",
+        "Longitude": "46.6333\u00b0 W"
+    },
+    {
+        "Exchange Name": "Saudi Stock Exchange",
+        "Country": "Saudi Arabia",
+        "Code": "TADAWUL",
+        "Latitude": "24.7136\u00b0 N",
+        "Longitude": "46.6753\u00b0 E"
+    },
+    {
+        "Exchange Name": "Oslo B\u00f8rs",
+        "Country": "Norway",
+        "Code": "OSL",
+        "Latitude": "59.9112\u00b0 N",
+        "Longitude": "10.7461\u00b0 E"
+    },
+    {
+        "Exchange Name": "Colombo Stock Exchange",
+        "Country": "Sri Lanka",
+        "Code": "COSE",
+        "Latitude": "6.9271\u00b0 N",
+        "Longitude": "79.8612\u00b0 E"
+    },
+    {
+        "Exchange Name": "Philippine Stock Exchange",
+        "Country": "Philippines",
+        "Code": "PSE",
+        "Latitude": "14.6091\u00b0 N",
+        "Longitude": "121.0223\u00b0 E"
+    },
+    {
+        "Exchange Name": "Johannesburg Stock Exchange",
+        "Country": "South Africa",
+        "Code": "JSE",
+        "Latitude": "26.2041\u00b0 S",
+        "Longitude": "28.0473\u00b0 E"
+    },
+    {
+        "Exchange Name": "Hanoi Stock Exchange",
+        "Country": "Vietnam",
+        "Code": "HNX",
+        "Latitude": "21.0285\u00b0 N",
+        "Longitude": "105.8542\u00b0 E"
+    },
+    {
+        "Exchange Name": "NYSE American",
+        "Country": "United States",
+        "Code": "AMEX",
+        "Latitude": "40.7069\u00b0 N",
+        "Longitude": "74.0113\u00b0 W"
+    },
+    {
+        "Exchange Name": "Frankfurt Stock Exchange",
+        "Country": "Germany",
+        "Code": "FRA",
+        "Latitude": "50.1109\u00b0 N",
+        "Longitude": "8.6821\u00b0 E"
+    },
+    {
+        "Exchange Name": "SIX Swiss Exchange",
+        "Country": "Switzerland",
+        "Code": "SWX",
+        "Latitude": "47.3769\u00b0 N",
+        "Longitude": "8.5417\u00b0 E"
+    },
+    {
+        "Exchange Name": "Egyptian Stock Exchange",
+        "Country": "Egypt",
+        "Code": "EGX",
+        "Latitude": "30.0444\u00b0 N",
+        "Longitude": "31.2357\u00b0 E"
+    },
+    {
+        "Exchange Name": "Moscow Stock Exchange",
+        "Country": "Russia",
+        "Code": "MOEX",
+        "Latitude": "55.7558\u00b0 N",
+        "Longitude": "37.6173\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Helsinki",
+        "Country": "Finland",
+        "Code": "HEL",
+        "Latitude": "60.1699\u00b0 N",
+        "Longitude": "24.9384\u00b0 E"
+    },
+    {
+        "Exchange Name": "Bucharest Stock Exchange",
+        "Country": "Romania",
+        "Code": "BVB",
+        "Latitude": "44.4268\u00b0 N",
+        "Longitude": "26.1025\u00b0 E"
+    },
+    {
+        "Exchange Name": "Copenhagen Stock Exchange",
+        "Country": "Denmark",
+        "Code": "CPH",
+        "Latitude": "55.6761\u00b0 N",
+        "Longitude": "12.5683\u00b0 E"
+    },
+    {
+        "Exchange Name": "Singapore Exchange \u2013 Catalist",
+        "Country": "Singapore",
+        "Code": "SGXC",
+        "Latitude": "1.2800\u00b0 N",
+        "Longitude": "103.8500\u00b0 E"
+    },
+    {
+        "Exchange Name": "Santiago Stock Exchange",
+        "Country": "Chile",
+        "Code": "SNSE",
+        "Latitude": "33.4489\u00b0 S",
+        "Longitude": "70.6693\u00b0 W"
+    },
+    {
+        "Exchange Name": "Madrid Stock Exchange",
+        "Country": "Spain",
+        "Code": "BME",
+        "Latitude": "40.4168\u00b0 N",
+        "Longitude": "3.7038\u00b0 W"
+    },
+    {
+        "Exchange Name": "Nigerian Stock Exchange",
+        "Country": "Nigeria",
+        "Code": "NGX",
+        "Latitude": "6.5244\u00b0 N",
+        "Longitude": "3.3792\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nordic Growth Market",
+        "Country": "Sweden",
+        "Code": "NGM",
+        "Latitude": "59.3293\u00b0 N",
+        "Longitude": "18.0686\u00b0 E"
+    },
+    {
+        "Exchange Name": "Kuwait Stock Exchange",
+        "Country": "Kuwait",
+        "Code": "KWSE",
+        "Latitude": "29.3759\u00b0 N",
+        "Longitude": "47.9774\u00b0 E"
+    },
+    {
+        "Exchange Name": "Athens Stock Exchange",
+        "Country": "Greece",
+        "Code": "ATH",
+        "Latitude": "37.9838\u00b0 N",
+        "Longitude": "23.7275\u00b0 E"
+    },
+    {
+        "Exchange Name": "Vienna Stock Exchange",
+        "Country": "Austria",
+        "Code": "VIE",
+        "Latitude": "48.2082\u00b0 N",
+        "Longitude": "16.3738\u00b0 E"
+    },
+    {
+        "Exchange Name": "New Zealand Stock Exchange",
+        "Country": "New Zealand",
+        "Code": "NZE",
+        "Latitude": "36.8485\u00b0 S",
+        "Longitude": "174.7633\u00b0 E"
+    },
+    {
+        "Exchange Name": "Amman Stock Exchange",
+        "Country": "Jordan",
+        "Code": "ASE",
+        "Latitude": "31.9454\u00b0 N",
+        "Longitude": "35.9284\u00b0 E"
+    },
+    {
+        "Exchange Name": "Euronext Brussels",
+        "Country": "Belgium",
+        "Code": "EBR",
+        "Latitude": "50.8503\u00b0 N",
+        "Longitude": "4.3517\u00b0 E"
+    },
+    {
+        "Exchange Name": "Mexican Stock Exchange",
+        "Country": "Mexico",
+        "Code": "BMV",
+        "Latitude": "19.4326\u00b0 N",
+        "Longitude": "99.1332\u00b0 W"
+    },
+    {
+        "Exchange Name": "Korea New Exchange",
+        "Country": "South Korea",
+        "Code": "XKON",
+        "Latitude": "37.5665\u00b0 N",
+        "Longitude": "126.9780\u00b0 E"
+    },
+    {
+        "Exchange Name": "Lima Stock Exchange",
+        "Country": "Peru",
+        "Code": "BVL",
+        "Latitude": "12.0464\u00b0 S",
+        "Longitude": "77.0428\u00b0 W"
+    },
+    {
+        "Exchange Name": "Euronext Amsterdam",
+        "Country": "Netherlands",
+        "Code": "AMS",
+        "Latitude": "52.3676\u00b0 N",
+        "Longitude": "4.9041\u00b0 E"
+    },
+    {
+        "Exchange Name": "Luxembourg Stock Exchange",
+        "Country": "Luxembourg",
+        "Code": "LUX",
+        "Latitude": "49.6116\u00b0 N",
+        "Longitude": "6.1319\u00b0 E"
+    },
+    {
+        "Exchange Name": "Muscat Securities Market",
+        "Country": "Oman",
+        "Code": "MSM",
+        "Latitude": "23.5859\u00b0 N",
+        "Longitude": "58.4059\u00b0 E"
+    },
+    {
+        "Exchange Name": "Abu Dhabi Securities Exchange",
+        "Country": "UAE",
+        "Code": "ADX",
+        "Latitude": "24.4539\u00b0 N",
+        "Longitude": "54.3773\u00b0 E"
+    },
+    {
+        "Exchange Name": "Jamaica Stock Exchange",
+        "Country": "Jamaica",
+        "Code": "JMSE",
+        "Latitude": "18.0179\u00b0 N",
+        "Longitude": "76.8099\u00b0 W"
+    },
+    {
+        "Exchange Name": "Mauritius Stock Exchange",
+        "Country": "Mauritius",
+        "Code": "MUSE",
+        "Latitude": "20.1609\u00b0 S",
+        "Longitude": "57.5012\u00b0 E"
+    },
+    {
+        "Exchange Name": "Cboe Canada",
+        "Country": "Canada",
+        "Code": "NEO",
+        "Latitude": "43.6486\u00b0 N",
+        "Longitude": "79.3775\u00b0 W"
+    },
+    {
+        "Exchange Name": "Aquis Exchange",
+        "Country": "United Kingdom",
+        "Code": "AQU",
+        "Latitude": "51.5145\u00b0 N",
+        "Longitude": "0.0922\u00b0 W"
+    },
+    {
+        "Exchange Name": "Bulgarian Stock Exchange",
+        "Country": "Bulgaria",
+        "Code": "BUL",
+        "Latitude": "42.6977\u00b0 N",
+        "Longitude": "23.3219\u00b0 E"
+    },
+    {
+        "Exchange Name": "Buenos Aires Stock Exchange",
+        "Country": "Argentina",
+        "Code": "BCBA",
+        "Latitude": "34.6037\u00b0 S",
+        "Longitude": "58.3816\u00b0 W"
+    },
+    {
+        "Exchange Name": "Casablanca Stock Exchange",
+        "Country": "Morocco",
+        "Code": "CBSE",
+        "Latitude": "33.5731\u00b0 N",
+        "Longitude": "7.5898\u00b0 W"
+    },
+    {
+        "Exchange Name": "Hamburg Stock Exchange",
+        "Country": "Germany",
+        "Code": "HAM",
+        "Latitude": "53.5511\u00b0 N",
+        "Longitude": "9.9937\u00b0 E"
+    },
+    {
+        "Exchange Name": "Tunis Stock Exchange",
+        "Country": "Tunisia",
+        "Code": "BVMT",
+        "Latitude": "36.8065\u00b0 N",
+        "Longitude": "10.1815\u00b0 E"
+    },
+    {
+        "Exchange Name": "Colombia Stock Exchange",
+        "Country": "Colombia",
+        "Code": "BVC",
+        "Latitude": "4.7110\u00b0 N",
+        "Longitude": "74.0721\u00b0 W"
+    },
+    {
+        "Exchange Name": "Dubai Financial Market",
+        "Country": "UAE",
+        "Code": "DFM",
+        "Latitude": "25.2048\u00b0 N",
+        "Longitude": "55.2708\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nairobi Stock Exchange",
+        "Country": "Kenya",
+        "Code": "NASE",
+        "Latitude": "1.2921\u00b0 S",
+        "Longitude": "36.8219\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nagoya Stock Exchange",
+        "Country": "Japan",
+        "Code": "XNGO",
+        "Latitude": "35.1815\u00b0 N",
+        "Longitude": "136.9066\u00b0 E"
+    },
+    {
+        "Exchange Name": "Qatar Stock Exchange",
+        "Country": "Qatar",
+        "Code": "QSE",
+        "Latitude": "25.2854\u00b0 N",
+        "Longitude": "51.4410\u00b0 E"
+    },
+    {
+        "Exchange Name": "Zagreb Stock Exchange",
+        "Country": "Croatia",
+        "Code": "ZSE",
+        "Latitude": "45.8150\u00b0 N",
+        "Longitude": "15.9819\u00b0 E"
+    },
+    {
+        "Exchange Name": "Prague Stock Exchange",
+        "Country": "Czech Republic",
+        "Code": "PRA",
+        "Latitude": "50.0755\u00b0 N",
+        "Longitude": "14.4378\u00b0 E"
+    },
+    {
+        "Exchange Name": "Budapest Stock Exchange",
+        "Country": "Hungary",
+        "Code": "BUD",
+        "Latitude": "47.4979\u00b0 N",
+        "Longitude": "19.0402\u00b0 E"
+    },
+    {
+        "Exchange Name": "Ivory Coast Stock Exchange",
+        "Country": "Ivory Coast",
+        "Code": "BRVM",
+        "Latitude": "5.3600\u00b0 N",
+        "Longitude": "4.0083\u00b0 W"
+    },
+    {
+        "Exchange Name": "Euronext Lisbon",
+        "Country": "Portugal",
+        "Code": "ELI",
+        "Latitude": "38.7223\u00b0 N",
+        "Longitude": "9.1393\u00b0 W"
+    },
+    {
+        "Exchange Name": "Dusseldorf Stock Exchange",
+        "Country": "Germany",
+        "Code": "DUSE",
+        "Latitude": "51.2277\u00b0 N",
+        "Longitude": "6.7735\u00b0 E"
+    },
+    {
+        "Exchange Name": "Munich Stock Exchange",
+        "Country": "Germany",
+        "Code": "MUN",
+        "Latitude": "48.1351\u00b0 N",
+        "Longitude": "11.5820\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Iceland",
+        "Country": "Iceland",
+        "Code": "ICE",
+        "Latitude": "64.1466\u00b0 N",
+        "Longitude": "21.9426\u00b0 W"
+    },
+    {
+        "Exchange Name": "Namibian Stock Exchange",
+        "Country": "Namibia",
+        "Code": "NMSE",
+        "Latitude": "22.5609\u00b0 S",
+        "Longitude": "17.0658\u00b0 E"
+    },
+    {
+        "Exchange Name": "Cyprus Stock Exchange",
+        "Country": "Cyprus",
+        "Code": "CYS",
+        "Latitude": "35.1856\u00b0 N",
+        "Longitude": "33.3823\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Tallinn",
+        "Country": "Estonia",
+        "Code": "TAL",
+        "Latitude": "59.4370\u00b0 N",
+        "Longitude": "24.7536\u00b0 E"
+    },
+    {
+        "Exchange Name": "Stuttgart Stock Exchange",
+        "Country": "Germany",
+        "Code": "BST",
+        "Latitude": "48.7758\u00b0 N",
+        "Longitude": "9.1829\u00b0 E"
+    },
+    {
+        "Exchange Name": "Tanzania Stock Exchange",
+        "Country": "Tanzania",
+        "Code": "DAR",
+        "Latitude": "6.7924\u00b0 S",
+        "Longitude": "39.2083\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Vilnius",
+        "Country": "Lithuania",
+        "Code": "VSE",
+        "Latitude": "54.6872\u00b0 N",
+        "Longitude": "25.2797\u00b0 E"
+    },
+    {
+        "Exchange Name": "Euronext Dublin",
+        "Country": "Ireland",
+        "Code": "ISE",
+        "Latitude": "53.3498\u00b0 N",
+        "Longitude": "6.2603\u00b0 W"
+    },
+    {
+        "Exchange Name": "Fukuoka Stock Exchange",
+        "Country": "Japan",
+        "Code": "FKSE",
+        "Latitude": "33.5904\u00b0 N",
+        "Longitude": "130.4017\u00b0 E"
+    },
+    {
+        "Exchange Name": "Palestine Stock Exchange",
+        "Country": "Palestine",
+        "Code": "PEX",
+        "Latitude": "31.9028\u00b0 N",
+        "Longitude": "35.2032\u00b0 E"
+    },
+    {
+        "Exchange Name": "Malta Stock Exchange",
+        "Country": "Malta",
+        "Code": "MSE",
+        "Latitude": "35.8997\u00b0 N",
+        "Longitude": "14.5146\u00b0 E"
+    },
+    {
+        "Exchange Name": "Bahrain Stock Exchange",
+        "Country": "Bahrain",
+        "Code": "BAX",
+        "Latitude": "26.2235\u00b0 N",
+        "Longitude": "50.5876\u00b0 E"
+    },
+    {
+        "Exchange Name": "Ghana Stock Exchange",
+        "Country": "Ghana",
+        "Code": "GHSE",
+        "Latitude": "5.6037\u00b0 N",
+        "Longitude": "0.1870\u00b0 W"
+    },
+    {
+        "Exchange Name": "Kazakhstan Stock Exchange",
+        "Country": "Kazakhstan",
+        "Code": "KASE",
+        "Latitude": "43.2383\u00b0 N",
+        "Longitude": "76.9450\u00b0 E"
+    },
+    {
+        "Exchange Name": "Lusaka Stock Exchange",
+        "Country": "Zambia",
+        "Code": "LUSE",
+        "Latitude": "15.3875\u00b0 S",
+        "Longitude": "28.3228\u00b0 E"
+    },
+    {
+        "Exchange Name": "Caracas Stock Exchange",
+        "Country": "Venezuela",
+        "Code": "CCSE",
+        "Latitude": "10.4806\u00b0 N",
+        "Longitude": "66.9036\u00b0 W"
+    },
+    {
+        "Exchange Name": "Belgrade Stock Exchange",
+        "Country": "Serbia",
+        "Code": "BELEX",
+        "Latitude": "44.7866\u00b0 N",
+        "Longitude": "20.4489\u00b0 E"
+    },
+    {
+        "Exchange Name": "Botswana Stock Exchange",
+        "Country": "Botswana",
+        "Code": "BSM",
+        "Latitude": "24.6282\u00b0 S",
+        "Longitude": "25.9231\u00b0 E"
+    },
+    {
+        "Exchange Name": "Sapporo Stock Exchange",
+        "Country": "Japan",
+        "Code": "SPSE",
+        "Latitude": "43.0621\u00b0 N",
+        "Longitude": "141.3544\u00b0 E"
+    },
+    {
+        "Exchange Name": "Uganda Securities Exchange",
+        "Country": "Uganda",
+        "Code": "UGSE",
+        "Latitude": "0.3476\u00b0 N",
+        "Longitude": "32.5825\u00b0 E"
+    },
+    {
+        "Exchange Name": "Ljubljana Stock Exchange",
+        "Country": "Slovenia",
+        "Code": "LJSE",
+        "Latitude": "46.0569\u00b0 N",
+        "Longitude": "14.5058\u00b0 E"
+    },
+    {
+        "Exchange Name": "Malawi Stock Exchange",
+        "Country": "Malawi",
+        "Code": "MAL",
+        "Latitude": "13.9626\u00b0 S",
+        "Longitude": "33.7741\u00b0 E"
+    },
+    {
+        "Exchange Name": "Nasdaq Riga",
+        "Country": "Latvia",
+        "Code": "RSE",
+        "Latitude": "56.9496\u00b0 N",
+        "Longitude": "24.1052\u00b0 E"
+    },
+    {
+        "Exchange Name": "Beirut Stock Exchange",
+        "Country": "Lebanon",
+        "Code": "BDB",
+        "Latitude": "33.8938\u00b0 N",
+        "Longitude": "35.5018\u00b0 E"
+    },
+    {
+        "Exchange Name": "CBOE Europe",
+        "Country": "Europe (London)",
+        "Code": "CHIX",
+        "Latitude": "51.5145\u00b0 N",
+        "Longitude": "0.0922\u00b0 W"
+    },
+    {
+        "Exchange Name": "Bratislava Stock Exchange",
+        "Country": "Slovakia",
+        "Code": "BSSE",
+        "Latitude": "48.1486\u00b0 N",
+        "Longitude": "17.1077\u00b0 E"
+    },
+    {
+        "Exchange Name": "Zimbabwe Stock Exchange",
+        "Country": "Zimbabwe",
+        "Code": "ZMSE",
+        "Latitude": "17.8252\u00b0 S",
+        "Longitude": "31.0335\u00b0 E"
+    },
+    {
+        "Exchange Name": "PFTS Stock Exchange",
+        "Country": "Ukraine",
+        "Code": "UKR",
+        "Latitude": "50.4501\u00b0 N",
+        "Longitude": "30.5234\u00b0 E"
+    }
+]
